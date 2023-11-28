@@ -4,7 +4,6 @@
 
     - Que 1
     - Que 2
-    -
 
 ### Describe the applications of Nanotechnology in Medicine
 
@@ -85,3 +84,42 @@
 >In summary, CVD and PVD are versatile and powerful techniques used to deposit thin films with a wide range of properties. While CVD relies on chemical reactions in the gaseous phase, PVD involves the physical transport of material in a vapor phase from a solid source to the substrate. Understanding these processes is crucial in various applications, including the fabrication of semiconductors, insulators, conductors, and dielectrics.
 
 ---
+
+### Describe the working principles of Spin Coating and Lithography
+
+>**Spin Coating working principle:**
+
+>1. **Substrate Preparation:**
+   The substrate, typically a silicon wafer or glass, undergoes thorough cleaning and preparation for the thin film deposition.
+
+>2. **Coating Solution Application:**
+   A liquid coating solution, often a polymer or photoresist, is dispensed onto the center of a spinning substrate.
+
+>3. **Rotation:**
+   The substrate is set into rapid rotation, generating centrifugal force that spreads the liquid uniformly across the substrate surface, forming a thin, even film.
+
+>4. **Evaporation:**
+   As the substrate continues to spin, excess solvent from the coating solution evaporates, leaving behind a precisely coated layer.
+
+>5. **Film Thickness Control:**
+   Factors such as the viscosity of the coating solution, spin speed, and spin time are controlled to achieve the desired thickness of the deposited film.
+
+>**Lithography working principle:**
+
+>1. **Substrate Coating:**
+   A thin film, often a photoresist, is applied to the substrate using techniques like spin coating.
+
+>2. **Exposure to Light:**
+   The coated substrate is exposed to light through a photomask. The photomask contains a pattern that is transferred to the photoresist.
+
+>3. **Photochemical Reaction:**
+   The exposed photoresist undergoes a photochemical reaction, leading to a change in solubility. This change makes certain areas of the photoresist more susceptible to development.
+
+>4. **Development:**
+   The substrate is developed using a chemical solution. The developer removes either the exposed or unexposed areas of the photoresist, depending on the type of photoresist used.
+
+>5. **Pattern Transfer:**
+   The developed pattern in the photoresist serves as a mask for further processes like etching or deposition, transferring the pattern to the underlying material.
+
+---
+
