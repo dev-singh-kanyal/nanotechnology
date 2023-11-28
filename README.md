@@ -8,7 +8,7 @@
 
 ### Describe the applications of Nanotechnology in Medicine
 
-    Nanotechnology, the manipulation of matter on an atomic and molecular scale, has emerged as a groundbreaking field with a myriad of applications in medicine. Its transformative potential is evident in various aspects of diagnostics, treatment, and drug delivery.
+>Nanotechnology, the manipulation of matter on an atomic and molecular scale, has emerged as a groundbreaking field with a myriad of applications in medicine. Its transformative potential is evident in various aspects of diagnostics, treatment, and drug delivery.
 
 >**1. Drug Delivery Systems:**
    Nanoparticles, manipulated at the molecular level, offer a sophisticated means of drug delivery. Engineered to carry therapeutic agents, they can precisely target diseased cells, reducing side effects and enhancing treatment effectiveness. For instance, loading nanoparticles with cancer drugs allows for direct delivery to tumors, sparing healthy cells from harm.
@@ -40,7 +40,7 @@
 >**10. Wound Healing:**
     Incorporating nanomaterials into wound dressings improves healing processes and reduces infection risks. Nanoparticles contribute to the development of advanced wound care solutions that promote efficient and effective tissue repair.
 
-    As nanotechnology research progresses, the integration of these applications in medicine holds the promise of revolutionizing healthcare practices in the years to come. The potential for personalized and highly effective treatments underscores the importance of continued exploration and innovation in this dynamic field.
+>As nanotechnology research progresses, the integration of these applications in medicine holds the promise of revolutionizing healthcare practices in the years to come. The potential for personalized and highly effective treatments underscores the importance of continued exploration and innovation in this dynamic field.
 
 ---
 
@@ -48,7 +48,7 @@
 
 >**Chemical Vapor Deposition (CVD):**
 
-    CVD is a technique for depositing thin films on a substrate through a chemical reaction of gaseous precursors. The process involves several steps:
+>CVD is a technique for depositing thin films on a substrate through a chemical reaction of gaseous precursors. The process involves several steps:
 
 >1. **Precursor Delivery:**
    Gaseous precursors containing the desired materials, such as silicon tetrachloride (SiCl4) or trimethylaluminum (Al(CH3)3), are introduced into a reaction chamber.
@@ -61,7 +61,7 @@
 
 >**Physical Vapor Deposition (PVD):**
 
-    PVD is a method for depositing thin films through the physical transport of material from a solid source to a substrate. The process can be broken down into three main steps:
+>PVD is a method for depositing thin films through the physical transport of material from a solid source to a substrate. The process can be broken down into three main steps:
 
 >1. **Source Material Evaporation:**
    The source material, typically a solid, undergoes evaporation or sputtering into a vapor phase. This can be achieved through methods such as thermal evaporation or sputtering.
@@ -82,6 +82,6 @@
 >| Film Uniformity | Can be very uniform | Can be less uniform |
 >| Applications | Wide variety of materials | Semiconductors, insulators, conductors, dielectrics |
 
-    In summary, CVD and PVD are versatile and powerful techniques used to deposit thin films with a wide range of properties. While CVD relies on chemical reactions in the gaseous phase, PVD involves the physical transport of material in a vapor phase from a solid source to the substrate. Understanding these processes is crucial in various applications, including the fabrication of semiconductors, insulators, conductors, and dielectrics.
+>In summary, CVD and PVD are versatile and powerful techniques used to deposit thin films with a wide range of properties. While CVD relies on chemical reactions in the gaseous phase, PVD involves the physical transport of material in a vapor phase from a solid source to the substrate. Understanding these processes is crucial in various applications, including the fabrication of semiconductors, insulators, conductors, and dielectrics.
 
 ---
