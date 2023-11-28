@@ -47,7 +47,7 @@
 
 >**Chemical Vapor Deposition (CVD):**
 
->CVD is a technique for depositing thin films on a substrate through a chemical reaction of gaseous precursors. The process involves several steps:
+>CVD is a technique for depositing thin films on a substrate through a chemical reaction of gaseous precursors. For example, silicon tetrachloride (Al(CH<sub>3</sub>)<sub>3</sub>) is used to deposit silicon dioxide (SiO<sub>2</sub>), and trimethylaluminum (Al(CH<sub>3</sub>)<sub>3</sub>) is used to deposit aluminum (Al). The process involves several steps:
 
 >1. **Precursor Delivery:**
    Gaseous precursors containing the desired materials, such as silicon tetrachloride (SiCl4) or trimethylaluminum (Al(CH3)3), are introduced into a reaction chamber.
@@ -58,9 +58,11 @@
 >3. **Film Deposition:**
    The reaction by-products are removed, and the desired material is deposited onto the substrate, forming a thin film. The entire process includes source gas preparation, transport to the substrate, reaction with the substrate, and removal of reaction byproducts.
 
+<img src="./image/cvd.png" alt="Chemical Vapor Deposition" title="CVD"  height="200"/>
+
 >**Physical Vapor Deposition (PVD):**
 
->PVD is a method for depositing thin films through the physical transport of material from a solid source to a substrate. The process can be broken down into three main steps:
+>PVD is a method for depositing thin films through the physical transport of material from a solid source to a substrate. For example, silicon is used to deposit silicon dioxide (SiO<sub>2</sub>), and aluminum is used to deposit aluminum (Al). The process can be broken down into three main steps:
 
 >1. **Source Material Evaporation:**
    The source material, typically a solid, undergoes evaporation or sputtering into a vapor phase. This can be achieved through methods such as thermal evaporation or sputtering.
@@ -70,6 +72,8 @@
 
 >3. **Film Formation:**
    The vapor condenses on the substrate surface, forming a thin film as the material loses energy and returns to a solid state.
+
+<img src="./image/pvd.jpg" alt="Physical Vapor Deposition" title="PVD" width="200"/>
 
 >**Differences between CVD and PVD:**
 
@@ -89,6 +93,8 @@
 
 >**Spin Coating working principle:**
 
+>Spin coating is a thin-film deposition technique that uses centrifugal force to spread a liquid film uniformly over a substrate. It is a versatile and widely used technique for depositing thin films of a variety of materials, including polymers, metals, and ceramics.
+
 >1. **Substrate Preparation:**
    The substrate, typically a silicon wafer or glass, undergoes thorough cleaning and preparation for the thin film deposition.
 
@@ -104,7 +110,17 @@
 >5. **Film Thickness Control:**
    Factors such as the viscosity of the coating solution, spin speed, and spin time are controlled to achieve the desired thickness of the deposited film.
 
+>Spin coating is a widely used technique for depositing thin films in a variety of applications, including:
+
+>- Semiconductor fabrication
+>- Microelectronics
+>- Photonics
+>- Biomedical applications
+>- Energy applications
+
 >**Lithography working principle:**
+
+>Lithography is a technique used to transfer a pattern from a mask onto a substrate. It is a critical step in the fabrication of integrated circuits, microelectromechanical systems (MEMS), and other nanodevices.
 
 >1. **Substrate Coating:**
    A thin film, often a photoresist, is applied to the substrate using techniques like spin coating.
@@ -121,5 +137,55 @@
 >5. **Pattern Transfer:**
    The developed pattern in the photoresist serves as a mask for further processes like etching or deposition, transferring the pattern to the underlying material.
 
+>Lithography is a critical technique in the fabrication of a wide variety of devices, including:
+
+>- Integrated circuits
+>- Microelectromechanical systems (MEMS)
+>- Nanodevices
+>- Printed circuit boards (PCBs)
+>- Flat panel displays
+
 ---
 
+### Describe the working principles of Wet Etching and Plasma Etching
+
+>Etching is a process that is used to remove material from a substrate to create patterns or structures at the nanoscale level. It can create structures and patterns with nanometer precision and accuracy. Etching can also modify the physical, chemical, and electrical properties of the material, which can affect the performance and functionality of the nanodevices.
+
+>**Wet (liquid-phase) Etching working pinciple:**
+
+>1. **Substrate Preparation:**
+   The substrate, often a silicon wafer, undergoes cleaning and is coated with a material like a thin film of photoresist or masking material.
+
+>2. **Masking:**
+   A mask is applied to protect specific areas of the substrate from the etching solution. This mask can be a patterned photoresist or another material resistant to the etchant.
+
+>3. **Etchant Application:**
+   The substrate is immersed in a liquid etchant solution, which selectively reacts with and removes the exposed areas of the substrate material.
+
+>4. **Etching Reaction:**
+   The etchant chemically reacts with the unprotected parts of the substrate, leading to the dissolution or removal of material.
+
+>5. **Rinse and Cleaning:**
+   After achieving the desired etching, the substrate is thoroughly rinsed and cleaned to stop the etching process and remove any residual etchant.
+
+>**Plasma (dry) Etching working principle:**
+
+>1. **Vacuum Chamber:**
+   The substrate is placed in a vacuum chamber, and the chamber is evacuated to create a low-pressure environment.
+
+>2. **Gas Introduction:**
+   Reactive gases, often containing fluorine or chlorine, are introduced into the chamber. These gases form a plasma when subjected to radiofrequency (RF) energy.
+
+>3. **Plasma Formation:**
+   RF energy ionizes the gas, creating a plasma—a state where ions and electrons coexist. High-energy ions in the plasma are directed toward the substrate.
+
+>4. **Chemical Reaction:**
+   Reactive ions in the plasma chemically react with the substrate material, causing etching. Selectivity is achieved through the choice of gases and process conditions.
+
+>5. **Etch Mask:**
+   A mask, usually a patterned material on the substrate, protects specific areas from the plasma, defining the pattern to be etched.
+
+>6. **Evacuation and Cleaning:**
+   Once desired etching is achieved, the chamber is evacuated, and the substrate is cleaned to remove any remaining by-products.
+
+### Describe the working-principles of Vapour Phase Epitaxy, Liquid Phase Epitaxy, Solid Phase Epitaxy, and Molecular Beam Epitaxy
